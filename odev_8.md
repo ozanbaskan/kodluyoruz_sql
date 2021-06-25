@@ -1,3 +1,7 @@
+# kodluyoruz_sql_odev_1
+
+
+## Homework
 ```
 CREATE TABLE employee (
 	id SERIAL PRIMARY KEY,
