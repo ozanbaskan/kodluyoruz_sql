@@ -1,4 +1,4 @@
-# kodluyoruz_sql_odev_1
+# kodluyoruz_sql_odev_8
 
 
 ## Homework
